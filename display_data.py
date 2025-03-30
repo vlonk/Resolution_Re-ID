@@ -10,8 +10,8 @@ def display_data(root_dir):
     image_files = [f for f in os.listdir(train_dir) if f.lower().endswith(".jpg")]
     print(f"Found images in training dataset.")
 
-    # display first 5 images, one at a time
-    for fname in image_files[:5]:
+    # display first 25 images, one at a time
+    for fname in image_files[:25]:
         full_path = os.path.join(train_dir, fname)
         print(f"Loading...")
 
