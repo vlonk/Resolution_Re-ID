@@ -1,4 +1,4 @@
-# reid
+# Person Re-Identification by Ny Dang
 
-Person Re-identification by Ny Dang under Dr. Shishir Shah
+under the supervision of Dr. Shishir Shah
 Dataset: Market1501
