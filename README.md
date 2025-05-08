@@ -1,4 +1,4 @@
-# Person Re-Identification 
+# The Influence of Resolution on Person Re-Identification 
 by Ny Dang
 
 under the supervision of Dr. Shishir Shah<br>
